@@ -5,3 +5,5 @@ node_modules/
 platforms/
 plugins/
 www/.DS_Store
+www/lib/ionic/js/.DS_Store
+npm-debug.log
